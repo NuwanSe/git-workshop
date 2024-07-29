@@ -1,1 +1,1 @@
-select * from edwp.table
+select * from edwp.table_01
